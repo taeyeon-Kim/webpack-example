@@ -1,0 +1,1 @@
+export const temp = '그냥 변수입니다.';

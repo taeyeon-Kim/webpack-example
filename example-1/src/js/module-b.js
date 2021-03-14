@@ -1,0 +1,1 @@
+export const bScope = 'module-a에 있는 변수 a와 다른 스코프를 가집니다.';
